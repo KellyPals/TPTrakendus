@@ -18,7 +18,7 @@ namespace TptRakendus
 		public Oplilasele ()
 		{
 			InitializeComponent ();
-            AppCenter.Start("397a1dbc-291f-49ac-9d1c-d8825888a83d", typeof(Analytics));
+            AppCenter.Start("a51ff6f6-097c-4dcc-9e59-af18324c34bf", typeof(Analytics));
             Analytics.TrackEvent("Õpilasele");
         }
 	}
