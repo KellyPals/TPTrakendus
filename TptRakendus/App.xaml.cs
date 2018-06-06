@@ -15,8 +15,8 @@ namespace TptRakendus
 			InitializeComponent();
 
 			MainPage = new MainPage();
-            AppCenter.Start("397a1dbc-291f-49ac-9d1c-d8825888a83d", typeof(Analytics));
-            Analytics.TrackEvent("App käitivus");
+            AppCenter.Start("a51ff6f6-097c-4dcc-9e59-af18324c34bf", typeof(Analytics));
+            Analytics.TrackEvent("App käivitus");
         }
 
 		protected override void OnStart ()
