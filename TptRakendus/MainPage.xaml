@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TptRakendus"
+             x:Class="TptRakendus.MainPage">
+
+    <NavigationPage Title="Opilasele"  BackgroundColor="LightBlue">
+        <x:Arguments>
+            <local:Oplilasele />
+        </x:Arguments>
+    </NavigationPage>
+
+    
+    <NavigationPage Title="Sisseastujale" BackgroundColor="LightBlue">
+        <x:Arguments>
+            <local:Sisseastujale />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Tunniplaan"  BackgroundColor="LightBlue">
+        <x:Arguments>
+            <local:Tunniplaan />
+        </x:Arguments>
+    </NavigationPage>
+
+</TabbedPage>

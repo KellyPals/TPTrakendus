@@ -1,0 +1,18 @@
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.csprojAssemblyReference.cache
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.AssemblyInfo.cs
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.deps.json
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.dll
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.pdb
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.dll
+D:\Visual Studio Projects\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.pdb
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.deps.json
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.dll
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\bin\Debug\netstandard2.0\TptRakendus.pdb
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.AssemblyInfo.cs
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.dll
+C:\Users\User\Desktop\Kelly leht\TptRakendus\TptRakendus\TptRakendus\TptRakendus\obj\Debug\netstandard2.0\TptRakendus.pdb
